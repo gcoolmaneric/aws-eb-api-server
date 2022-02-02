@@ -85,3 +85,9 @@ vim appsettings.json
 * Create new bundle `dotnet fake build -t bundle`
 
 * Upload `dotnet-core-eb-api-server.zip` to the EB environment
+
+
+Please refer to the following for details.
+
+Medium: https://medium.com/game-tech-tutorial/deploy-asp-net-core-to-aws-elastic-beanstalk-with-cloudwatch-log-873b5d88a5dc
+
