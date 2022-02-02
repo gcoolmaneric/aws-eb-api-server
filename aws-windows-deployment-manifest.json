@@ -1,0 +1,15 @@
+{
+    "manifestVersion": 1,
+    "deployments": {
+        "aspNetCoreWeb": [
+        {
+            "name": "dotnet-core-eb-api-server",
+            "parameters": {
+                "appBundle": "dotnet-core-eb-api-server.zip",
+                "iisPath": "/",
+                "iisWebSite": "Default API Server"
+            }            
+        }
+        ]
+    }
+}
